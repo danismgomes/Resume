@@ -1,6 +1,6 @@
-#Danielle Gomes
+# Danielle Gomes
 
-######Mobile Developer
+###### Mobile Developer
 
 > :octocat: [github.com/danismgomes](https://github.com/danismgomes)
 
