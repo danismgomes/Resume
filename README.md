@@ -6,20 +6,20 @@
   
 ## Projects
 
-* **Pocket**
-	> App designed to be used to organize our personal finances. The features included on the app allow the user to insert deposits and withdrawals and to see the graphs related to the user's transactions. 
-	* Technologies and tools used:
-		* SwiftUI | CocoaPods | Xcode | Firebase | Git - GitHub | MVC | Kanban | Gimp | AdobeXd
+#### Pocket
+> App designed to be used to organize our personal finances. The features included on the app allow the user to insert deposits and withdrawals and to see the graphs related to the user's transactions. 
+* Technologies and tools used:
+	* SwiftUI | CocoaPods | Xcode | Firebase | Git - GitHub | MVC | Kanban | Gimp | AdobeXd
 
-* **D&D Library**
-	> This app was developed to be used by the Master of the table RPG Dungeons and Dragons. The master can find the monster needed or random it. The information showed in the app are the page and the name of the book where the monster is.
-	* Technologies and tools used:
-		* Java (Android SDK) | Android Studio | Firebase | Git - GitLab | MVC | Kanban | AdobeXd
+#### D&D Library
+> This app was developed to be used by the Master of the table RPG Dungeons and Dragons. The master can find the monster needed or random it. The information showed in the app are the page and the name of the book where the monster is.
+* Technologies and tools used:
+	* Java (Android SDK) | Android Studio | Firebase | Git - GitLab | MVC | Kanban | AdobeXd
 
-* **Done**
-	> The function of this app is to help us to organize our tasks and get then done. Tasks can be added and also its details like priority, category and deadline. The user can see the tasks finished by day or category.
-	* Technologies and tools used:
-		* SwiftUI | CocoaPods | Xcode | Firebase | Git - GitHub | MVC | Kanban | Gimp | AdobeXd
+#### Done
+> The function of this app is to help us to organize our tasks and get then done. Tasks can be added and also its details like priority, category and deadline. The user can see the tasks finished by day or category.
+* Technologies and tools used:
+	* SwiftUI | CocoaPods | Xcode | Firebase | Git - GitHub | MVC | Kanban | Gimp | AdobeXd
 
 ## Experience  
 #### Android Developer  
