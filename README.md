@@ -21,13 +21,22 @@
 * Technologies and tools used:
 	* SwiftUI | CocoaPods | Xcode | Firebase | Git - GitHub | MVC | Kanban | Gimp | AdobeXd
 
-## Experience  
+## Experience
+
+#### iOS Developer  
+> :date: 05/2019 - util now | [Air Code Design](https://aircodedesign.com/) | :mailbox_with_mail: Vancouver, British Columbia, Canada
+* Resposible for [SIKU](https://siku.org/) iOS development;
+* Home office;
+* Remote Meetings;
+* Git management;
+* Deployment;
+
 #### Android Developer  
 > :date: 02/2013 -  05/2015 | [Acácia Consultoria](https://www.acaciaconsultoria.com.br/) | :mailbox_with_mail: Marília, São Paulo, Brazil
 * Development of changes and improvements in software for sales force automation, promoters and others products on the Android and Windows Mobile platform;
 * Task manager of a team of 7 people;  
 * Implemented ISO 9001 certification and continuous improvement management;  
-* Created, improved, maintained and modified documents, spreadsheets and indicators ; 
+* Created, improved, maintained and modified documents, spreadsheets and indicators; 
 
 #### Local Agent of Innovation
 > :date: 05/2015 -  05/2017 | [Sebrae - CNPq](https://www.sebrae.com.br/sites/PortalSebrae/Programas/agentes-locais-de-inovacao-receba-o-sebrae-na-sua-empresa,8f51d53342603410VgnVCM100000b272010aRCRD) | :mailbox_with_mail: Marília, São Paulo, Brazil
