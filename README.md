@@ -6,6 +6,11 @@
   
 ## Projects
 
+#### SIKU
+> Facilitating self-determination in research, education and stewardship for Indigenous communities.
+* Technologies and tools used:
+	* Swift | UIKit | CocoaPods | Xcode | Fastlane | Git - Bitbucket | Figma
+
 #### Pocket
 > App designed to be used to organize our personal finances. The features included on the app allow the user to insert deposits and withdrawals and to see the graphs related to the user's transactions. 
 * Technologies and tools used:
