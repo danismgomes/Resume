@@ -30,7 +30,7 @@
 
 #### iOS Developer  
 > :date: 05/2019 - util now | [Air Code Design](https://aircodedesign.com/) | :mailbox_with_mail: Vancouver, British Columbia, Canada
-* Resposible for [SIKU](https://siku.org/) iOS development;
+* Responsible for [SIKU](https://siku.org/) iOS development;
 * Home office;
 * Remote Meetings;
 * Git management;
