@@ -1,6 +1,6 @@
-# Danielle Gomes  
+# Danielle Machado  
   
-## Mobile Developer   &  Code Enthusiast
+## iOS Developer   &  Code Enthusiast
   
 > :octocat: [github.com/danismgomes](https://github.com/danismgomes) |  :earth_americas: [danismgomes.github.io](https://danismgomes.github.io/) | :email: [danismgomes@gmail.com](mailto:danismgomes@gmail.com) | :phone: +1 (778) 302 - 5152  
   
@@ -9,7 +9,7 @@
 #### SIKU
 > Facilitating self-determination in research, education and stewardship for Indigenous communities.
 * Technologies and tools used:
-	* Swift | UIKit | CocoaPods | Xcode | Fastlane | Git - Bitbucket | Figma
+	* Swift | UIKit | SwiftUI | CocoaPods | Xcode | Fastlane | Git - Bitbucket | Figma | Mapbox | Firebase | Crashlytics | REST
 
 #### Pocket
 > App designed to be used to organize our personal finances. The features included on the app allow the user to insert deposits and withdrawals and to see the graphs related to the user's transactions. 
@@ -29,8 +29,9 @@
 ## Experience
 
 #### iOS Developer  
-> :date: 05/2019 - util now | [Air Code Design](https://aircodedesign.com/) | :mailbox_with_mail: Vancouver, British Columbia, Canada
+> :date: 05/2020 - util now | [Arctic Eider Society](https://arcticeider.com/) | :mailbox_with_mail: Vancouver, British Columbia, Canada
 * Responsible for [SIKU](https://siku.org/) iOS development;
+* Bug fixes and new features;
 * Home office;
 * Remote Meetings;
 * Git management;
